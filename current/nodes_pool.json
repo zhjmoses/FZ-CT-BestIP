@@ -1,0 +1,660 @@
+[
+  {
+    "host": "104.18.39.143",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_speed",
+    "desc": "测速优选-26.44MB/s"
+  },
+  {
+    "host": "104.18.42.15",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_speed",
+    "desc": "测速优选-26.28MB/s"
+  },
+  {
+    "host": "104.18.43.135",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_speed",
+    "desc": "测速优选-23.16MB/s"
+  },
+  {
+    "host": "104.18.41.27",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_speed",
+    "desc": "测速优选-22.86MB/s"
+  },
+  {
+    "host": "104.18.37.73",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_speed",
+    "desc": "测速优选-22.26MB/s"
+  },
+  {
+    "host": "104.18.45.63",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_speed",
+    "desc": "测速优选-21.89MB/s"
+  },
+  {
+    "host": "104.18.34.56",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_speed",
+    "desc": "测速优选-21.68MB/s"
+  },
+  {
+    "host": "104.18.33.225",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_speed",
+    "desc": "测速优选-21.59MB/s"
+  },
+  {
+    "host": "104.18.38.186",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_speed",
+    "desc": "测速优选-21.13MB/s"
+  },
+  {
+    "host": "104.18.47.52",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_speed",
+    "desc": "测速优选-20.82MB/s"
+  },
+  {
+    "host": "859ct.cc",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_domain",
+    "desc": "优选节点"
+  },
+  {
+    "host": "278vd.cc",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_domain",
+    "desc": "优选节点"
+  },
+  {
+    "host": "mfa.gov.ua",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_domain",
+    "desc": "乌克兰反代"
+  },
+  {
+    "host": "saas.sin.fan",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_domain",
+    "desc": "SaaS优选"
+  },
+  {
+    "host": "store.ubi.com",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_domain",
+    "desc": "育碧反代"
+  },
+  {
+    "host": "cf.130519.xyz",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_domain",
+    "desc": "优选Cname"
+  },
+  {
+    "host": "cf.008500.xyz",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_domain",
+    "desc": "优选Cname"
+  },
+  {
+    "host": "cf.090227.xyz",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_domain",
+    "desc": "优选Cname"
+  },
+  {
+    "host": "cf.877774.xyz",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_domain",
+    "desc": "优选Cname"
+  },
+  {
+    "host": "cdn.262832.xyz",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_domain",
+    "desc": "优选Cname"
+  },
+  {
+    "host": "cdns.doon.eu.org",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_domain",
+    "desc": "优选泛域名"
+  },
+  {
+    "host": "xin.usfox.qzz.io",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_domain",
+    "desc": "优选反代"
+  },
+  {
+    "host": "cdn.262832.xyz",
+    "port": 443,
+    "region": "TW",
+    "type": "cf_domain",
+    "desc": "台湾优选"
+  },
+  {
+    "host": "sub.danfeng.eu.org",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_domain",
+    "desc": "优选泛域名"
+  },
+  {
+    "host": "cf.zhetengsha.eu.org",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_domain",
+    "desc": "优选泛域名"
+  },
+  {
+    "host": "cloudflare.cfgo.cc",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_domain",
+    "desc": "优选高配"
+  },
+  {
+    "host": "104.16.240.35",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.240.47",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.240.57",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.240.59",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.241.185",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.241.211",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.241.212",
+    "port": 443,
+    "region": "SG",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.241.213",
+    "port": 443,
+    "region": "US",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.242.72",
+    "port": 443,
+    "region": "US",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.243.37",
+    "port": 443,
+    "region": "US",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.243.52",
+    "port": 443,
+    "region": "US",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.243.62",
+    "port": 443,
+    "region": "US",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.243.130",
+    "port": 443,
+    "region": "US",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.243.154",
+    "port": 443,
+    "region": "US",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.243.184",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.244.253",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.246.101",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.246.121",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.246.132",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.246.147",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.246.173",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.246.188",
+    "port": 443,
+    "region": "JP",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.248.248",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.248.58",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.248.114",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.248.191",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.249.115",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.249.174",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.249.207",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.249.246",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.250.228",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.251.14",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.251.154",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.251.157",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.251.164",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.252.131",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.253.24",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.253.59",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.253.83",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.254.75",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.254.199",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "104.16.254.211",
+    "port": 443,
+    "region": "HK",
+    "type": "cf_cmcc",
+    "desc": "移动联通优先"
+  },
+  {
+    "host": "8.39.125.89",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "162.159.41.121",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "162.159.33.115",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "173.245.59.201",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "173.245.58.145",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "8.35.211.157",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "173.245.59.80",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "8.35.211.173",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "188.164.248.152",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "188.164.248.140",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "162.159.35.185",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "188.164.248.81",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "8.35.211.153",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "198.41.223.73",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "188.164.248.222",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "173.245.58.68",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "8.35.211.50",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "8.39.125.124",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "198.41.223.201",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "188.164.248.55",
+    "port": 443,
+    "region": "CF",
+    "type": "cf_anycast",
+    "desc": "官方Anycast优选"
+  },
+  {
+    "host": "46.3.105.69",
+    "port": 22899,
+    "region": "HK",
+    "type": "direct",
+    "desc": "直连三网中转"
+  },
+  {
+    "host": "8.217.149.233",
+    "port": 39738,
+    "region": "HK",
+    "type": "direct",
+    "desc": "阿里云独立机房"
+  },
+  {
+    "host": "38.207.133.36",
+    "port": 14391,
+    "region": "HK",
+    "type": "direct",
+    "desc": "直连高速落地"
+  },
+  {
+    "host": "38.207.133.163",
+    "port": 17989,
+    "region": "HK",
+    "type": "direct",
+    "desc": "直连高速落地"
+  },
+  {
+    "host": "43.229.154.227",
+    "port": 51827,
+    "region": "HK",
+    "type": "direct",
+    "desc": "直连优质中转"
+  },
+  {
+    "host": "47.242.145.136",
+    "port": 8001,
+    "region": "HK",
+    "type": "direct",
+    "desc": "腾讯云独立机房"
+  }
+]
