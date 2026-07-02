@@ -586,5 +586,201 @@
     "region": "HK",
     "type": "direct",
     "desc": "腾讯云独立机房"
+  },
+  {
+    "host": "cq.ct.6610000.xyz",
+    "port": 443,
+    "region": "SIN",
+    "type": "cf_speed",
+    "desc": "重庆 · 中国电信"
+  },
+  {
+    "host": "fj.ct.6610000.xyz",
+    "port": 443,
+    "region": "未知",
+    "type": "cf_speed",
+    "desc": "福建 · 中国电信"
+  },
+  {
+    "host": "gd.ct.6610000.xyz",
+    "port": 443,
+    "region": "SIN",
+    "type": "cf_speed",
+    "desc": "广东 · 中国电信"
+  },
+  {
+    "host": "gd.ct.v6.6610000.xyz",
+    "port": 443,
+    "region": "SJC",
+    "type": "cf_speed",
+    "desc": "广东 · 中国电信"
+  },
+  {
+    "host": "gd.cm.6610000.xyz",
+    "port": 443,
+    "region": "HKG",
+    "type": "cf_speed",
+    "desc": "广东 · 中国移动"
+  },
+  {
+    "host": "gx.ct.6610000.xyz",
+    "port": 443,
+    "region": "SIN",
+    "type": "cf_speed",
+    "desc": "广西 · 中国电信"
+  },
+  {
+    "host": "gx.ct.v6.6610000.xyz",
+    "port": 443,
+    "region": "SJC",
+    "type": "cf_speed",
+    "desc": "广西 · 中国电信"
+  },
+  {
+    "host": "gz.cu.6610000.xyz",
+    "port": 443,
+    "region": "HKG",
+    "type": "cf_speed",
+    "desc": "贵州 · 中国联通"
+  },
+  {
+    "host": "gz.cu.v6.6610000.xyz",
+    "port": 443,
+    "region": "LAX",
+    "type": "cf_speed",
+    "desc": "贵州 · 中国联通"
+  },
+  {
+    "host": "ha.ct.6610000.xyz",
+    "port": 443,
+    "region": "SIN",
+    "type": "cf_speed",
+    "desc": "河南 · 中国电信"
+  },
+  {
+    "host": "js.cu.6610000.xyz",
+    "port": 443,
+    "region": "未知",
+    "type": "cf_speed",
+    "desc": "江苏 · 中国联通"
+  },
+  {
+    "host": "jx.cu.6610000.xyz",
+    "port": 443,
+    "region": "HKG",
+    "type": "cf_speed",
+    "desc": "江西 · 中国联通"
+  },
+  {
+    "host": "ln.cu.6610000.xyz",
+    "port": 443,
+    "region": "HKG",
+    "type": "cf_speed",
+    "desc": "辽宁 · 中国联通"
+  },
+  {
+    "host": "sd.ct.6610000.xyz",
+    "port": 443,
+    "region": "NRT",
+    "type": "cf_speed",
+    "desc": "山东 · 中国电信"
+  },
+  {
+    "host": "sn.ct.6610000.xyz",
+    "port": 443,
+    "region": "SIN",
+    "type": "cf_speed",
+    "desc": "山西 · 中国电信"
+  },
+  {
+    "host": "sn.ct.v6.6610000.xyz",
+    "port": 443,
+    "region": "SJC",
+    "type": "cf_speed",
+    "desc": "山西 · 中国电信"
+  },
+  {
+    "host": "sx.ct.6610000.xyz",
+    "port": 443,
+    "region": "SIN",
+    "type": "cf_speed",
+    "desc": "陕西 · 中国电信"
+  },
+  {
+    "host": "sx.cu.6610000.xyz",
+    "port": 443,
+    "region": "HKG",
+    "type": "cf_speed",
+    "desc": "陕西 · 中国联通"
+  },
+  {
+    "host": "sx.cu.v6.6610000.xyz",
+    "port": 443,
+    "region": "LAX",
+    "type": "cf_speed",
+    "desc": "陕西 · 中国联通"
+  },
+  {
+    "host": "sh.cu.6610000.xyz",
+    "port": 443,
+    "region": "LAX",
+    "type": "cf_speed",
+    "desc": "上海 · 中国联通"
+  },
+  {
+    "host": "sh.cu.v6.6610000.xyz",
+    "port": 443,
+    "region": "LAX",
+    "type": "cf_speed",
+    "desc": "上海 · 中国联通"
+  },
+  {
+    "host": "sh.cm.6610000.xyz",
+    "port": 443,
+    "region": "HKG",
+    "type": "cf_speed",
+    "desc": "上海 · 中国移动"
+  },
+  {
+    "host": "sc.ct.6610000.xyz",
+    "port": 443,
+    "region": "未知",
+    "type": "cf_speed",
+    "desc": "四川 · 中国电信"
+  },
+  {
+    "host": "tj.cu.6610000.xyz",
+    "port": 443,
+    "region": "FRA",
+    "type": "cf_speed",
+    "desc": "天津 · 中国联通"
+  },
+  {
+    "host": "tj.cm.6610000.xyz",
+    "port": 443,
+    "region": "HKG",
+    "type": "cf_speed",
+    "desc": "天津 · 中国移动"
+  },
+  {
+    "host": "yn.ct.6610000.xyz",
+    "port": 443,
+    "region": "SIN",
+    "type": "cf_speed",
+    "desc": "云南 · 中国电信"
+  },
+  {
+    "host": "zj.cu.6610000.xyz",
+    "port": 443,
+    "region": "HKG",
+    "type": "cf_speed",
+    "desc": "浙江 · 中国联通"
+  },
+  {
+    "host": "zj.cu.v6.6610000.xyz",
+    "port": 443,
+    "region": "LAX",
+    "type": "cf_speed",
+    "desc": "浙江 · 中国联通"
   }
 ]
