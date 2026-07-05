@@ -1,5 +1,19 @@
 [
   {
+    "host": "reuse.aicenter.dpdns.org",
+    "port": 443,
+    "region": "US",
+    "type": "cf_domain",
+    "desc": "手敲"
+  },  
+  {
+    "host": "FZ-CT-BestIP.aicenter.dpdns.org",
+    "port": 443,
+    "region": "US",
+    "type": "cf_domain",
+    "desc": "手敲"
+  },    
+  {
     "host": "anycast.aicenter.dpdns.org",
     "port": 443,
     "region": "US",
