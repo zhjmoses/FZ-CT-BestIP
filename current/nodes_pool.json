@@ -1,5 +1,12 @@
 [
   {
+    "host": "anycast.aicenter.dpdns.org",
+    "port": 443,
+    "region": "US",
+    "type": "cf_domain",
+    "desc": "手敲"
+  },  
+  {
     "host": "859ct.cc",
     "port": 443,
     "region": "JP",
